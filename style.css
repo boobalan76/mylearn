@@ -1,4 +1,17 @@
-h1{
-    color:red;
-    background-color:green;
+.title{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: aliceblue;
+}
+.menu{
+    padding-top: 30px;
+}
+.menu a{
+    padding: 5px;
+}
+.menu :hover{
+    color: blue;
+    cursor: pointer;
+    
 }
