@@ -2,13 +2,14 @@
     display: flex;
     justify-content: space-between;
     background-color: black;
-    color: aliceblue;
+    color: #f0f8ff;
 }
 .menu{
     padding-top: 30px;
 }
 .menu a{
     padding: 5px;
+    color: #f0f8ff;
 }
 .menu :hover{
     color: blue;
